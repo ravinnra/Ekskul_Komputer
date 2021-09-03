@@ -39,6 +39,7 @@ else:
 
 # PERULANGAN
 # for loop
+
 i = 0
 for nama in daftarNama:
     i += 1
